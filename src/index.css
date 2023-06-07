@@ -1,0 +1,9 @@
+:root {
+  --black: #383737;
+  --whihte: #ffffff;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
