@@ -1,0 +1,36 @@
+.HeaderRoot {
+  position: sticky;
+  top: 0;
+  background-color: var(--darkgrey);
+  width: 100%;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.leftSection{
+  font-weight: 700;
+  font-size: 2rem;
+  cursor: default;
+  color: #f29559;
+}
+.rightSection {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  .link {
+    a {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 0.1rem;
+      text-decoration: none;
+      color: #f2d492;
+    }
+    // a:hover{
+    //   transform: scale(1.1);
+    //   transition: all 0.5s ease-in-out;
+    // }
+  }
+}
