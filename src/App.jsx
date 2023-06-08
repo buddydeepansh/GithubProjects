@@ -4,6 +4,7 @@ import DashBoard from "./Components/Dashboard/DashBoard"
 import Header from "./Components/Header/Header"
 import AppStore from "./Store/AppStore"
 import { observer } from "mobx-react"
+import ProjectModal from "./Components/Modal/ProjectModal"
 
 const App = observer(() => {
   const handleResize = () => {
@@ -25,6 +26,7 @@ const App = observer(() => {
     <div className="AppRoot">
       <Header />
       <DashBoard />
+      {AppStore.modalVisible && <ProjectModal />}
     </div>
   )
 })
