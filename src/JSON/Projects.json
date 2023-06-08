@@ -9,42 +9,122 @@
   },
   {
     "id": "2",
-    "name": "Crypto Dashboard",
-    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
-    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "name": "Portfolio Demo",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/module-5-test-deepansh",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/module-5-test-deepansh/index.html",
     "imgSrc": "Images/CryptoTracker.png",
-    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+    "projectDesc": "This demo portfolio was made using Vanilla Js, Html & Css only. It contains some good ui and navigation buttons."
   },
   {
     "id": "3",
-    "name": "Crypto Dashboard",
-    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
-    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "name": "The Meal Finder",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/MEAL%20FINDER%20API",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/MEAL%20FINDER%20API/index.html",
     "imgSrc": "Images/CryptoTracker.png",
-    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+    "projectDesc": "This meal finder project allows user to browse some random meals with their ingredients and cooking instructions as well. Also it provides a list of meal via the serach option when user enters any ingredient that they want to make a meal with. This all data is collected using api calls."
   },
   {
     "id": "4",
-    "name": "Crypto Dashboard",
-    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
-    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "name": "Exchange Rate Calculator",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/EXCHANGE%20RATE%20CALCULATOR",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/EXCHANGE%20RATE%20CALCULATOR/index.html",
     "imgSrc": "Images/CryptoTracker.png",
-    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+    "projectDesc": "This Exchange rate calculator provides the user a service to convert 1 curreny into another currency according to the latest rates provided by the exchange rate api.."
   },
   {
     "id": "5",
-    "name": "Crypto Dashboard",
-    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
-    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "name": "JS Todo List",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/JS%20TODOLIST",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/JS%20TODOLIST/index.html",
     "imgSrc": "Images/CryptoTracker.png",
-    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+    "projectDesc": "This Todo list is made using the concept of localstorage in browser. If a user modifies their todo list, It gets modified in the localstorage as well. So in this way even if a user refresh the web page, their data would not vanish."
   },
   {
     "id": "6",
-    "name": "Crypto Dashboard",
-    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
-    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "name": "Drum Kit Set",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/Drum%20Kit",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/Drum%20Kit/index.html",
     "imgSrc": "Images/CryptoTracker.png",
-    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+    "projectDesc": "This Drum kit set app was made during my learning process of event listners and event handling of javascript. Whenever a user click the relevant key or presses an instrument's button they plays an instument's beat."
+  },
+  {
+    "id": "7",
+    "name": "Beat Maker",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/BEAT%20MAKER%20APP",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/BEAT%20MAKER%20APP/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This is an old project of mine which I had created using classes and methods using js only. This app contains multiple sound trackes of multiple instruments and when a user interacts with the touch pads they get added in the playing list. So for that pad the audio of the instrument is played."
+  },
+  {
+    "id": "8",
+    "name": "Pexel Photo App",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/PHOTOS%20CALL%20API",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/PHOTOS%20CALL%20API/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This is a web page which fetches some random photos using the pexels api and it uses grid structure to allign those images. User have a fascility to open the image in a single click. Also the user can search for specific type of images if thet want."
+  },
+  {
+    "id": "9",
+    "name": "Dice Game",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/DICE",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/DICE/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Dice game is mdae with the help of Javascript. It generates a random number twice for one user each and displays the result status via a falg of winner of round or draw match. It consits of 6 images of dices which are then displayed as per the random number generated."
+  },
+  {
+    "id": "10",
+    "name": "Edge Ledger",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://buddydeepansh.github.io/edgeledgerproject/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This demo project is made for a financial services website where the service provider can list their services and all the history about them."
+  },
+  {
+    "id": "11",
+    "name": "Infinite Scroll",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/INFINITE%20SCROLL%20WITH%20PAGINATION",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/INFINITE%20SCROLL%20WITH%20PAGINATION/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This web app uses an api call to fetch some random data, but the user is displayed only certain items at once. Then wehn the user scrolls down then a loader animation is shown and more items are displayed to user."
+  },
+  {
+    "id": "12",
+    "name": "Adobe Clone",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/ADOBE%20CLONE",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/ADOBE%20CLONE/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "Adobe clone is the clone of Adobe's website only just the frontend part which includes a background gif video as an animation. Rest all data is static."
+  },
+  {
+    "id": "13",
+    "name": "Hotel Boston",
+    "gitLink": "https://github.com/buddydeepansh/hotelboston",
+    "depLink": "https://buddydeepansh.github.io/hotelboston/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This website is made using HTML & Css only. It have 3 pages for Home, About and Contact us."
+  },
+  {
+    "id": "14",
+    "name": "Basic Form Validation",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/Modul6Test_Deepansh",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/Modul6Test_Deepansh/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This is a basic form validation which validates the form using regex and js only."
+  },
+  {
+    "id": "15",
+    "name": "Captcha Generator",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/Captchaa",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/Captchaa/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This was a practice project which I had created a long time ago to simply generate some random letters and then match them with the user input."
+  },
+  {
+    "id": "16",
+    "name": "Random User Generator",
+    "gitLink": "https://github.com/buddydeepansh/PROJECTS/tree/master/RandomUser",
+    "depLink": "https://buddydeepansh.github.io/PROJECTS/RandomUser/index.html",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This user generator provides random images, name, email address and phone number of a person to user. This whole data is randomized and being fetched from an third party api using fetch calls."
   }
 ]
