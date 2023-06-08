@@ -1,17 +1,31 @@
 import { observer } from "mobx-react"
-import React from "react"
-import AppStore from "../../Store/AppStore"
-import "./DashBoard.less"
+import React, { useState } from "react"
 import projectsJSON from "../../JSON/Projects.json"
 import GridBox from "../GridBox/GridBox"
+import "./DashBoard.less"
 
 const DashBoard = observer(() => {
+  const [expand, setExpand] = useState(false)
   return (
     <div className="DashboardRoot">
       <div className="gridContainer">
-        {projectsJSON.map((project, index) => {
-          return <GridBox key={index} project={project} />
-        })}
+        {!expand &&
+          projectsJSON.map((project, index) => {
+            if (index < 6) return <GridBox key={index} index={index} project={project} />
+          })}
+        {expand &&
+          projectsJSON.map((project, index) => {
+            return <GridBox key={index} index={index} project={project} />
+          })}
+      </div>
+      <div
+        className="expandBtn"
+        onClick={() => {
+          setExpand(!expand)
+        }}
+      >
+        {" "}
+        {expand ? "View less" : "View All"}
       </div>
     </div>
   )

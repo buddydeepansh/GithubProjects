@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 .gridContainer{
   display: grid;
@@ -11,6 +12,13 @@
   gap: 2rem;
   width: 70%;
   margin: 2rem auto;
+}
+.expandBtn{
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--peach);
+  cursor: pointer;
 }
 @media screen and (max-width: 800px) {
   .gridContainer{
