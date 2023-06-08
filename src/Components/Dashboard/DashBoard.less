@@ -1,0 +1,24 @@
+.DashboardRoot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.gridContainer{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  justify-items: center;
+  align-items: center;
+  gap: 2rem;
+  width: 70%;
+  margin: 2rem auto;
+}
+@media screen and (max-width: 800px) {
+  .gridContainer{
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+@media screen and (max-width: 650px) {
+  .gridContainer{
+    grid-template-columns: repeat(1,1fr);
+  }
+}

@@ -1,0 +1,53 @@
+.GridBoxRoot {
+  width: 15rem;
+  height: 15rem;
+  background-color: var(--black);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.projectName {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--orange);
+  cursor: default;
+}
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  .gitBtn {
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    a {
+      text-decoration: none;
+      color: var(--peach);
+      svg {
+        width: 2rem;
+        height: 2rem;
+      }
+    }
+  }
+}
+.viewMoreBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  button {
+    width: 10rem;
+    height: 2rem;
+    border-radius: 20px;
+    outline: none;
+    border: 0;
+    font-size: 1.1rem;
+    color: var(--orange);
+    background-color: var(--darkgrey);
+    font-weight: 500;
+    cursor: pointer;
+  }
+}

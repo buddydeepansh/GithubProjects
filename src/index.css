@@ -2,7 +2,10 @@
 :root {
   --grey: #383737;
   --darkgrey: #2e2c2c;
+  --black: #181717;
   --white: #ffffff;
+  --peach: #f2d492;
+  --orange: #f29559;
 }
 * {
   margin: 0;

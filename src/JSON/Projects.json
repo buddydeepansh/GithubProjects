@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  },
+  {
+    "id": "2",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  },
+  {
+    "id": "3",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  },
+  {
+    "id": "4",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  },
+  {
+    "id": "5",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  },
+  {
+    "id": "6",
+    "name": "Crypto Dashboard",
+    "gitLink": "https://github.com/buddydeepansh/CryptoDashboard",
+    "depLink": "https://crypto-dashboard-demo.netlify.app/",
+    "imgSrc": "Images/CryptoTracker.png",
+    "projectDesc": "This Crypto Dashboard conatins information on cryptocurrencies so that a user can track the rates, market prices, changes, graph of currencies."
+  }
+]
